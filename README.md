@@ -18,5 +18,5 @@ The script won't notify you when the scraping is finished
 Since MidJourney have grown heavily, their gallery has became less stable and they have implemented some limitations like setting the scroll limit to 2500 images compared to the previous 10000+ limit meaning that you can only scrape 2500 images at most at a time.
 
 ### This is outdated work
-I no longer use this script as it is much easier to use requests to call the MJ API directly and compile the results using your own methods.
+I no longer use or maintain this script as it is much easier to use requests to call the MJ API directly and compile the results using your own methods.
 The only reason I'd see someone use this over calling the API directly is to save a small number of images once without having to setup python or its dependencies.
